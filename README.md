@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-[![Email](https://img.shields.io/badge/Email-aidrivenstoriestotell%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aidrivenstoriestotell@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aidrivenstoriestotell@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Erkan%20Yilmaz-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erkan-yilmaz/)
 
 I'm building **[Papercut](https://github.com/shyhunter/Papercut)** , a privacy-first desktop app for compressing, resizing, converting, and editing PDFs, images, and documents. Everything runs locally: no uploads, no cloud, no telemetry.
