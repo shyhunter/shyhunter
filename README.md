@@ -11,10 +11,10 @@ I'm building **[Papercut](https://github.com/shyhunter/Papercut)** , a privacy-f
 
 _A few things about how I work:_
 
-- 🧭 **product-minded** — comfortable turning a fuzzy problem into a shippable increment
-- 🤝 **collaborative** — believes the best solutions come from listening closely to real users and teams
-- ⚙️ **hands-on** — currently building Papercut end-to-end, from product decisions to the code itself
-- 🎯 **outcome-driven** — agile in practice, not just in title
+- 🧭 **product-minded** —> comfortable turning a fuzzy problem into a shippable increment
+- 🤝 **collaborative** —> believes the best solutions come from listening closely to real users and teams
+- ⚙️ **hands-on** —> currently building Papercut end-to-end, from product decisions to the code itself
+- 🎯 **outcome-driven** —> agile in practice, not just in title
 
 ---
 
