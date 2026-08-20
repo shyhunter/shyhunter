@@ -13,7 +13,7 @@ _A few things about how I work:_
 
 - 🧭 **product-minded** —> comfortable turning a fuzzy problem into a shippable increment
 - 🤝 **collaborative** —> believes the best solutions come from listening closely to real users and teams
-- ⚙️ **hands-on** —> currently building Papercut end-to-end, from product decisions to the code itself
+- 🤖 **AI-native builder** —> drives Papercut end-to-end with AI, from product decisions to shipped software
 - 🎯 **outcome-driven** —> agile in practice, not just in title
 
 ---
