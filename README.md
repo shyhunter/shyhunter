@@ -18,4 +18,4 @@ _A few things about how I work:_
 
 ---
 
-⭐ If Papercut is useful to you, a star on the repo helps others find it.
+⭐ If PaperOtter is useful to you, a star on the repo helps others find it.
