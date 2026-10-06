@@ -3,7 +3,11 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aidrivenstoriestotell@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Erkan%20Yilmaz-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erkan-yilmaz/)
 
-I'm building **[PaperOtter](https://github.com/shyhunter/PaperOtter)** , a privacy-first desktop app for compressing, resizing, converting, and editing PDFs, images, and documents. Everything runs locally: no uploads, no cloud, no telemetry.
+I' build and developing :
+
+**[PaperOtter](https://github.com/shyhunter/PaperOtter)** , a privacy-first desktop app for compressing, resizing, converting, and editing PDFs, images, and documents. Everything runs locally: no uploads, no cloud, no telemetry.
+
+**[LetMeShowYouSomething](https://github.com/shyhunter/LetMeShowYouSomething)** , Your AI agent writes down what it needs you to judge, you answer on one offline page, and your answers go back to the agent as a file it checks before it acts.
 
 
 
@@ -18,4 +22,4 @@ _A few things about how I work:_
 
 ---
 
-⭐ If PaperOtter is useful to you, a star on the repo helps others find it.
+⭐ If PaperOtter , LetMeShowYouSomething is useful to you, a star on the repo helps others find it.
