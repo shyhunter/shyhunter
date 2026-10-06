@@ -3,12 +3,11 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aidrivenstoriestotell@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Erkan%20Yilmaz-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erkan-yilmaz/)
 
-I' build and developing :
+I build AI assisted products, agent skills like  :
 
 **[PaperOtter](https://github.com/shyhunter/PaperOtter)** , a privacy-first desktop app for compressing, resizing, converting, and editing PDFs, images, and documents. Everything runs locally: no uploads, no cloud, no telemetry.
 
-**[LetMeShowYouSomething](https://github.com/shyhunter/LetMeShowYouSomething)** , Your AI agent writes down what it needs you to judge, you answer on one offline page, and your answers go back to the agent as a file it checks before it acts.
-
+**[LetMeShowYouSomething](https://github.com/shyhunter/LetMeShowYouSomething)** , A reusable AI skill for structured human-in-the-loop feedback. The agent creates an offline review page, you provide your judgment there, and your responses return as structured data the agent checks before it acts.
 
 
 ---
